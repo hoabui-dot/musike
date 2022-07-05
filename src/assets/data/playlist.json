@@ -1,0 +1,51 @@
+[
+  {
+    "url": "https://raw.githubusercontent.com/Hoang21099/msk/master/a.mp3",
+    "title": "Hunter master",
+    "artist": "MUSIKE",
+    "artwork": "https://raw.githubusercontent.com/Hoang21099/mar-asset/master/guitar.png",
+    "durations": 30
+  },
+  {
+    "url": "https://raw.githubusercontent.com/Hoang21099/msk/master/b.mp3",
+    "title": "Kiaxon",
+    "artist": "MUSIKE",
+    "artwork": "https://raw.githubusercontent.com/Hoang21099/mar-asset/master/image2.png",
+    "duration": 30
+  },
+  {
+    "url": "https://raw.githubusercontent.com/Hoang21099/msk/master/c.mp3",
+    "title": "What Cha Got There(GTR Added)",
+    "artist": "MUSIKE",
+    "artwork": "https://raw.githubusercontent.com/Hoang21099/mar-asset/master/Mar_bake.png",
+    "duration": 30
+  },
+  {
+    "url": "https://raw.githubusercontent.com/Hoang21099/msk/master/d.mp3",
+    "title": "견애차이 Duet ver 3",
+    "artist": "MUSIKE",
+    "artwork": "https://raw.githubusercontent.com/Hoang21099/mar-asset/master/planet_continental_Base_Color.jpg",
+    "duration": 30
+  },
+  {
+    "url": "https://raw.githubusercontent.com/Hoang21099/msk/master/e.mp3",
+    "title": "넌내게어려워AR",
+    "artist": "MUSIKE",
+    "artwork": "https://raw.githubusercontent.com/Hoang21099/mar-asset/master/guitar.png",
+    "duration": 30
+  },
+  {
+    "url": "https://raw.githubusercontent.com/Hoang21099/msk/master/f.mp3",
+    "title": "바람이었다 1절",
+    "artist": "MUSIKE",
+    "artwork": "https://raw.githubusercontent.com/Hoang21099/mar-asset/master/Mar_bake.png",
+    "duration": 30
+  },
+  {
+    "url": "https://raw.githubusercontent.com/Hoang21099/msk/master/g.mp3",
+    "title": "어나더유니버스 Orchestra Arr Monitor",
+    "artist": "MUSIKE",
+    "artwork": "https://raw.githubusercontent.com/Hoang21099/mar-asset/master/guitar.png",
+    "duration": 30
+  }
+]
